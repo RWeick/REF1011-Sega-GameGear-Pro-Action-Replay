@@ -1,0 +1,14 @@
+GAL20V8
+
+
+
+A B C D E F G H I J K GND L M O15 O16 O17 O18 O19 O20 O21 O22 N VCC
+O22=/B*A*N*/G*H*I*/J
+   +/B*/A*N*/G*H*I*/J*/L
+O21=/B*/A*/C*N*D*E*F*/G*/H*/I*/O15*/J
+   +/B*/A*/C*/N*D*E*F*/G*/H*/I*/O15*/J*M
+/O20=N*/I*/O15*/J*/K
+/O19=/N*/K
+/O18=N*/H*I*/J*/K
+/O16=B*/A*N*/G*H*I*/J
+DESCRIPTION
